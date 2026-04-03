@@ -2,7 +2,9 @@
 
 A SwiftUI **Generative UI** framework. AI generates JSON specs, your app renders them as native SwiftUI views.
 
-Inspired by [json-render](https://github.com/vercel-labs/json-render) from Vercel Labs.
+Inspired by [json-render](https://github.com/vercel-labs/json-render) from Vercel Labs. You can go to `release` to download the example app to try the on demand UI generation by yourself.
+
+![screenshot](./screenshots/app-screen1.png)
 
 ## Why
 
