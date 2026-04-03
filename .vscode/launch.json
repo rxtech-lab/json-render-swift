@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:json-render-swift}",
+            "name": "Debug SchemaGeneratorTool",
+            "target": "SchemaGeneratorTool",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug SchemaGeneratorTool"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:json-render-swift}",
+            "name": "Release SchemaGeneratorTool",
+            "target": "SchemaGeneratorTool",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release SchemaGeneratorTool"
+        }
+    ]
+}
